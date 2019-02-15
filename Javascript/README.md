@@ -11,3 +11,4 @@ Javascript
 - [ECMAScript6中的一些小知识 json中的键和值一样，可以只写一个](./CONTENTS/6.md)
 - [随笔：弱类型语言javascript中 a,b 的运算](./CONTENTS/7.md) 
 - [随笔：弱类型语言javascript中的 |与|| ，&与&&，左移，右移，异或分析](./CONTENTS/8.md) 
+- [javascript中的数据类型检测](./CONTENTS/9.md) 
