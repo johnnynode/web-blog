@@ -9,4 +9,5 @@ Javascript
 - [随笔：弱类型语言javascript中的一些小坑](./CONTENTS/4.md)
 - [for循环写法性能测试](./CONTENTS/5.md)
 - [ECMAScript6中的一些小知识 json中的键和值一样，可以只写一个](./CONTENTS/6.md)
-- [随笔：弱类型语言javascript中 a,b 的运算](./CONTENTS/7.md)
+- [随笔：弱类型语言javascript中 a,b 的运算](./CONTENTS/7.md) 
+- [随笔：弱类型语言javascript中的 |与|| ，&与&&，左移，右移，异或分析](./CONTENTS/8.md) 
