@@ -7,3 +7,4 @@ Javascript
 - [文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/2.md)
 - [getElementsByClassName函数的兼容写法](./CONTENTS/3.md)
 - [随笔：弱类型语言javascript中的一些小坑](./CONTENTS/4.md)
+- [for循环写法性能测试](./CONTENTS/5.md)
