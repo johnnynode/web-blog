@@ -13,3 +13,4 @@ Javascript
 - [随笔：弱类型语言javascript中的 |与|| ，&与&&，左移，右移，异或分析](./CONTENTS/8.md) 
 - [javascript中的数据类型检测](./CONTENTS/9.md) 
 - [面向对象在javascript中的实践之内存分析](./CONTENTS/10.md) 
+- [面向对象在javascript中的实践之大杂烩](./CONTENTS/11.md) 
