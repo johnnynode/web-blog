@@ -15,3 +15,4 @@ Javascript
 - [面向对象在javascript中的实践之内存分析](./CONTENTS/10.md) 
 - [面向对象在javascript中的实践之大杂烩](./CONTENTS/11.md) 
 - [javascript中的this分析](./CONTENTS/12.md)
+- [javascript中的call,apply,callee,caller等的分析](./CONTENTS/13.md)
