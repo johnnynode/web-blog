@@ -20,3 +20,4 @@ Javascript
 - [javascript中的闭包分析](./CONTENTS/15.md)
 - [javascript中的变量提升和函数提升详解](./CONTENTS/16.md)
 - [javascript中的执行环境和作用域详解](./CONTENTS/17.md)
+- [javscript中的垃圾回收机制](./CONTENTS/18.md)
