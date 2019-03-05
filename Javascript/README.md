@@ -22,3 +22,4 @@ Javascript
 - [javascript中的执行环境和作用域详解](./CONTENTS/17.md)
 - [javscript中的垃圾回收机制](./CONTENTS/18.md)
 - [javascript中面向对象中对象，属性，原型链和一些扩展知识总结](./CONTENTS/19.md)
+- [javascript中面向对象的三大作用](./CONTENTS/20.md)
