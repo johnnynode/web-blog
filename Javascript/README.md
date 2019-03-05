@@ -18,3 +18,4 @@ Javascript
 - [javascript中的call,apply,callee,caller等的分析](./CONTENTS/13.md)
 - [面向对象在javascript中的实践之多种方式创建对象](./CONTENTS/14.md)
 - [javascript中的闭包分析](./CONTENTS/15.md)
+- [javascript中的变量提升和函数提升详解](./CONTENTS/16.md)
