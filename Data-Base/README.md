@@ -6,3 +6,4 @@
 - [MySQL中的SQL知识点和一些常用操作技巧](./CONTENTS/3.md)
 - [MySQL 常用的基础操作](./CONTENTS/4.md)
 - [MySQL的数据类型和常见操作](./CONTENTS/5.md)
+- [MySQL数据操作总结](./CONTENTS/6.md)
