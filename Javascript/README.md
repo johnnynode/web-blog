@@ -25,3 +25,4 @@ Javascript
 - [20、javascript中面向对象的三大作用](./CONTENTS/20.md)
 - [21、面向对象在javascript中的三大特征之封装](./CONTENTS/21.md)
 - [22、面向对象在javascript中的三大特征之继承](./CONTENTS/22.md)
+- [23、面向对象在javascript中的三大特征之多态](./CONTENTS/23.md)
