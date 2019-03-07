@@ -27,3 +27,4 @@ Javascript
 - [22、面向对象在javascript中的三大特征之继承](./CONTENTS/22.md)
 - [23、面向对象在javascript中的三大特征之多态](./CONTENTS/23.md)
 - [24、面向对象在JavaScript中的接口实现](./CONTENTS/24.md)
+- [25、JavaScript中的模块化之AMD和CMD](./CONTENTS/25.md)
