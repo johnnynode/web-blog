@@ -28,3 +28,5 @@ Javascript
 - [23、面向对象在javascript中的三大特征之多态](./CONTENTS/23.md)
 - [24、面向对象在JavaScript中的接口实现](./CONTENTS/24.md)
 - [25、JavaScript中的模块化之AMD和CMD](./CONTENTS/25.md)
+- [26、javascript中严格模式中的作用域问题](./CONTENTS/26.md)
+- [27、JSONP跨域问题演示](./CONTENTS/27.md)
