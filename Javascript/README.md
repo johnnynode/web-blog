@@ -42,3 +42,4 @@ Javascript
 - [37、前端知识点整理之页面加载事件，数组操作，DOM节点操作，循环和分支](./CONTENTS/37.md)
 - [38、前端知识点整理之内置对象，日期对象和定时器的相关操作](./CONTENTS/38.md)
 - [39、前端知识点整理之运算符优先级，URL编码与解码，String，Math，arguments操作](./CONTENTS/39.md)
+- [40、前端知识点整理之offset，scroll，client，冒泡，事件对象的应用](./CONTENTS/40.md)
