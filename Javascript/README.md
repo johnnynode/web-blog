@@ -37,3 +37,4 @@ Javascript
 - [32、导出Excel功能-从服务端到浏览器的简单处理](./CONTENTS/32.md)
 - [33、html的head中异步按顺序加载script脚本的兼容写法](./CONTENTS/33.md)
 - [34、前端知识点整理之js作用，web标准和网页事件三要素](./CONTENTS/34.md)
+- [35、前端知识点整理之常见事件，引入位置，数据类型，和数值型常用API](./CONTENTS/35.md)
