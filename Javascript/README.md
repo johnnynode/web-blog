@@ -30,3 +30,4 @@ Javascript
 - [25、JavaScript中的模块化之AMD和CMD](./CONTENTS/25.md)
 - [26、javascript中严格模式中的作用域问题](./CONTENTS/26.md)
 - [27、JSONP跨域问题演示](./CONTENTS/27.md)
+- [28、({}+{}).length的问题](./CONTENTS/28.md)
