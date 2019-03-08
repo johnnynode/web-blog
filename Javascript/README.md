@@ -32,3 +32,4 @@ Javascript
 - [27、JSONP跨域问题演示](./CONTENTS/27.md)
 - [28、({}+{}).length的问题](./CONTENTS/28.md)
 - [29、从内存角度分析：数组删除自己内部指定对象和通过函数形参改值问题](./CONTENTS/29.md)
+- [30、最快的方式取出json的第一个未知属性](./CONTENTS/30.md)
