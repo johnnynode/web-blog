@@ -36,3 +36,4 @@ Javascript
 - [31、通过判断iframe是否存在来分别不同的业务处理](./CONTENTS/31.md)
 - [32、导出Excel功能-从服务端到浏览器的简单处理](./CONTENTS/32.md)
 - [33、html的head中异步按顺序加载script脚本的兼容写法](./CONTENTS/33.md)
+- [34、前端知识点整理之js作用，web标准和网页事件三要素](./CONTENTS/34.md)
