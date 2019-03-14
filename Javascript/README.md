@@ -3,8 +3,8 @@ Javascript
 
 ### 文章列表
 
-- [1、前端Tab栏(页签)切换的几种方式实现](./CONTENTS/1.md)
-- [2、文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/2.md)
+- [1、网页特效：前端Tab栏(页签)切换的几种方式实现](./CONTENTS/1.md)
+- [2、网页特效：文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/2.md)
 - [3、getElementsByClassName函数的兼容写法](./CONTENTS/3.md)
 - [4、随笔：弱类型语言javascript中的一些小坑](./CONTENTS/4.md)
 - [5、for循环写法性能测试](./CONTENTS/5.md)
@@ -44,3 +44,4 @@ Javascript
 - [39、前端知识点整理之运算符优先级，URL编码与解码，String，Math，arguments操作](./CONTENTS/39.md)
 - [40、前端知识点整理之offset，scroll，client，冒泡，事件对象的应用](./CONTENTS/40.md)
 - [41、前端知识点整理之正则表达式](./CONTENTS/41.md)
+- [42、前端知识点整理之正则表达式](./CONTENTS/42.md)
