@@ -44,4 +44,4 @@ Javascript
 - [39、前端知识点整理之运算符优先级，URL编码与解码，String，Math，arguments操作](./CONTENTS/39.md)
 - [40、前端知识点整理之offset，scroll，client，冒泡，事件对象的应用](./CONTENTS/40.md)
 - [41、前端知识点整理之正则表达式](./CONTENTS/41.md)
-- [42、前端知识点整理之正则表达式](./CONTENTS/42.md)
+- [42、网页特效：普通的tab栏的切换与函数封装](./CONTENTS/42.md)
