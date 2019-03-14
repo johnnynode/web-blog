@@ -49,3 +49,4 @@ Javascript
 - [44、网页特效：用闭包实现含有定时器的tab栏的切换与函数封装](./CONTENTS/44.md)
 - [45、网页特效：文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/45.md)
 - [46、网页特效：无缝滚动实现方式一：用自身的offsetLeft 实现](./CONTENTS/46.md)
+- [47、网页特效：无缝滚动实现方式二：用父盒子的scrollLeft 实现](./CONTENTS/47.md)
