@@ -47,3 +47,4 @@ Javascript
 - [42、网页特效：普通的tab栏的切换与函数封装](./CONTENTS/42.md)
 - [43、网页特效：含有定时器的tab栏的切换与函数封装](./CONTENTS/43.md)
 - [44、网页特效：用闭包实现含有定时器的tab栏的切换与函数封装](./CONTENTS/44.md)
+- [45、网页特效：文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/45.md)
