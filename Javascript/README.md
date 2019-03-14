@@ -51,3 +51,4 @@ Javascript
 - [46、网页特效：无缝滚动实现方式一：用自身的offsetLeft 实现](./CONTENTS/46.md)
 - [47、网页特效：无缝滚动实现方式二：用父盒子的scrollLeft 实现](./CONTENTS/47.md)
 - [48、网页特效：动画封装一：实现水平匀速运动](./CONTENTS/48.md)
+- [49、网页特效：动画封装二：实现水平缓动运动](./CONTENTS/49.md)
