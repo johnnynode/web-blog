@@ -50,3 +50,4 @@ Javascript
 - [45、网页特效：文档滚动对 scrollTop scrollLeft的兼容性封装](./CONTENTS/45.md)
 - [46、网页特效：无缝滚动实现方式一：用自身的offsetLeft 实现](./CONTENTS/46.md)
 - [47、网页特效：无缝滚动实现方式二：用父盒子的scrollLeft 实现](./CONTENTS/47.md)
+- [48、网页特效：动画封装一：实现水平匀速运动](./CONTENTS/48.md)
