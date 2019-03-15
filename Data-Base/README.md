@@ -7,3 +7,4 @@
 - [MySQL 常用的基础操作](./CONTENTS/4.md)
 - [MySQL的数据类型和常见操作](./CONTENTS/5.md)
 - [MySQL数据操作总结](./CONTENTS/6.md)
+- [mysql数据库的一些简单的sql语句 内连接 - 表的关联查询](./CONTENTS/7.md)
