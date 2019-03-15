@@ -54,3 +54,4 @@ Javascript
 - [49、网页特效：动画封装二：实现水平缓动运动](./CONTENTS/49.md)
 - [50、网页特效：动画封装三：单条样式的缓动运动](./CONTENTS/50.md)
 - [51、网页特效：动画封装四：用json实现多条样式的缓动运动](./CONTENTS/51.md)
+- [52、网页特效：用window.scrollTo实现有滚动条的全屏滚动](./CONTENTS/52.md)
