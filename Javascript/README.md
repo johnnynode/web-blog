@@ -56,3 +56,4 @@ Javascript
 - [51、网页特效：动画封装四：用json实现多条样式的缓动运动](./CONTENTS/51.md)
 - [52、网页特效：用window.scrollTo实现有滚动条的全屏滚动](./CONTENTS/52.md)
 - [53、网页特效：用绝对定位实现无滚动条的全屏滚动](./CONTENTS/53.md)
+- [54、chrome插件的开发案例分析](./CONTENTS/54.md)
