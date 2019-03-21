@@ -60,3 +60,4 @@ Javascript
 - [55、关于js单线程异步的测试](./CONTENTS/55.md)
 - [56、在访问浏览器的时候，发生了什么？](./CONTENTS/56.md)
 - [57、Web 应用安全发展的介绍](./CONTENTS/57.md)
+- [58、浏览器特性与安全策略](./CONTENTS/58.md)
