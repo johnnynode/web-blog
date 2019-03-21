@@ -58,3 +58,4 @@ Javascript
 - [53、网页特效：用绝对定位实现无滚动条的全屏滚动](./CONTENTS/53.md)
 - [54、chrome插件的开发案例分析](./CONTENTS/54.md)
 - [55、关于js单线程异步的测试](./CONTENTS/55.md)
+- [56、在访问浏览器的时候，发生了什么？](./CONTENTS/56.md)
