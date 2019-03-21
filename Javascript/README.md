@@ -64,3 +64,4 @@ Javascript
 - [59、javascript中的惰性载入函数](./CONTENTS/59.md)
 - [60、函数柯里化](./CONTENTS/60.md)
 - [61、javascript中的级联函数(链式调用)的应用](./CONTENTS/61.md)
+- [62、chrome插件的开发案例分析](./CONTENTS/62.md)
