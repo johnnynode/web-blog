@@ -5,7 +5,7 @@ Web-Blog
 
 - [Bootstrap](https://github.com/johnnynode/web-blog/blob/master/Bootstrap/README.md)
 
-- [Html5-CSS3](https://github.com/johnnynode/web-blog/blob/master/Html5-CSS3/README.md)
+- [Html5 CSS3](https://github.com/johnnynode/web-blog/blob/master/Html5-CSS3/README.md)
 
 - [Javascript](https://github.com/johnnynode/web-blog/blob/master/Javascript/README.md)
 
@@ -35,7 +35,7 @@ Web-Blog
 
 - [Block Chain](https://github.com/johnnynode/web-blog/blob/master/Block-Chain/README.md)
 
-- [Tools-Builder-Debug](https://github.com/johnnynode/web-blog/blob/master/Tools-Builder-Debug/README.md)
+- [Workflow Builder Debugger](https://github.com/johnnynode/web-blog/blob/master/Workflow-Builder-Debugger/README.md)
 
 ### License
 
