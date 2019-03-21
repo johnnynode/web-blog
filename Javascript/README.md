@@ -62,3 +62,4 @@ Javascript
 - [57、Web 应用安全发展的介绍](./CONTENTS/57.md)
 - [58、浏览器特性与安全策略](./CONTENTS/58.md)
 - [59、javascript中的惰性载入函数](./CONTENTS/59.md)
+- [60、函数柯里化](./CONTENTS/60.md)
