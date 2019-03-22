@@ -77,3 +77,4 @@ Javascript
 - [72、ES6知识点整理Map的应用](./CONTENTS/72.md)
 - [73、ES6知识点整理Array常用扩展的应用](./CONTENTS/73.md)
 - [74、ES6知识点整理Object属性新的写法](./CONTENTS/74.md)
+- [75、ES6知识点整理Object方法扩展的应用](./CONTENTS/75.md)
