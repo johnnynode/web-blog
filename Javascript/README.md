@@ -75,3 +75,4 @@ Javascript
 - [70、ES6知识点整理Generator的应用](./CONTENTS/70.md) 
 - [71、ES6知识点整理Set的应用](./CONTENTS/71.md)
 - [72、ES6知识点整理Map的应用](./CONTENTS/72.md)
+- [73、ES6知识点整理Array常用扩展的应用](./CONTENTS/73.md)
