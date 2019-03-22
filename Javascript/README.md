@@ -65,3 +65,4 @@ Javascript
 - [60、函数柯里化](./CONTENTS/60.md)
 - [61、javascript中的级联函数(链式调用)的应用](./CONTENTS/61.md)
 - [62、chrome插件的开发案例分析](./CONTENTS/62.md)
+- [63、javascript设计模式入门和单例模式](./CONTENTS/63.md)
