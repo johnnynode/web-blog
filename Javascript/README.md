@@ -67,3 +67,4 @@ Javascript
 - [62、chrome插件的开发案例分析](./CONTENTS/62.md)
 - [63、javascript设计模式入门和单例模式](./CONTENTS/63.md)
 - [64、javascript设计模式之构造模式](./CONTENTS/64.md)
+- [65、javascript设计模式之建造者模式](./CONTENTS/65.md)
