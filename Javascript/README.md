@@ -81,3 +81,4 @@ Javascript
 - [76、ES6知识点整理String字符串新增常用方法](./CONTENTS/76.md)
 - [77、ES6知识点整理模板字符串和标签模板的应用](./CONTENTS/77.md) 
 - [78、ES6知识点整理箭头函数的应用](./CONTENTS/78.md) 
+- [79、ES6知识点整理数组解构和字符串解构的应用](./CONTENTS/79.md) 
