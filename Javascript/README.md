@@ -69,3 +69,4 @@ Javascript
 - [64、javascript设计模式之构造模式](./CONTENTS/64.md)
 - [65、javascript设计模式之建造者模式](./CONTENTS/65.md)
 - [66、javascript设计模式之工厂模式](./CONTENTS/66.md)
+- [67、javascript设计模式之外观模式](./CONTENTS/67.md)
