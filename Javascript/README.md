@@ -86,3 +86,4 @@ Javascript
 - [81、ES6知识点整理函数数组参数的默认值及其解构的应用](./CONTENTS/81.md) 
 - [82、ES6知识点整理函数对象参数的默认值及其解构的应用](./CONTENTS/82.md) 
 - [83、ES6知识点整理Proxy的应用](./CONTENTS/83.md) 
+- [84、ES6知识点整理模块化的应用](./CONTENTS/84.md) 
