@@ -66,3 +66,4 @@ Javascript
 - [61、javascript中的级联函数(链式调用)的应用](./CONTENTS/61.md)
 - [62、chrome插件的开发案例分析](./CONTENTS/62.md)
 - [63、javascript设计模式入门和单例模式](./CONTENTS/63.md)
+- [64、javascript设计模式之构造模式](./CONTENTS/64.md)
