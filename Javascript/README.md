@@ -72,4 +72,5 @@ Javascript
 - [67、javascript设计模式之外观模式](./CONTENTS/67.md)
 - [68、ES6知识点整理Promise的应用](./CONTENTS/68.md)
 - [69、ES6知识点整理Symbol的应用](./CONTENTS/69.md)
-- [70、ES6知识点整理Generator的应用](./CONTENTS/70.md)
+- [70、ES6知识点整理Generator的应用](./CONTENTS/70.md) 
+- [71、ES6知识点整理Set的应用](./CONTENTS/71.md)
