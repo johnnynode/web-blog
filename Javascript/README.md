@@ -85,3 +85,4 @@ Javascript
 - [80、ES6知识点整理对象解构赋值的应用](./CONTENTS/80.md) 
 - [81、ES6知识点整理函数数组参数的默认值及其解构的应用](./CONTENTS/81.md) 
 - [82、ES6知识点整理函数对象参数的默认值及其解构的应用](./CONTENTS/82.md) 
+- [83、ES6知识点整理Proxy的应用](./CONTENTS/83.md) 
