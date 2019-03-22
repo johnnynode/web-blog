@@ -71,3 +71,4 @@ Javascript
 - [66、javascript设计模式之工厂模式](./CONTENTS/66.md)
 - [67、javascript设计模式之外观模式](./CONTENTS/67.md)
 - [68、ES6知识点整理Promise的应用](./CONTENTS/68.md)
+- [69、ES6知识点整理Symbol的应用](./CONTENTS/69.md)
