@@ -9,3 +9,4 @@ Git-Github-Linux
 - [4、用于git测试的linux脚本](./CONTENTS/4.md)
 - [5、Fix "the ECDSA host key for 'your server' differs from the key for the IP address 'the ip'"](./CONTENTS/5.md)
 - [6、Fix fatal: Couldn't find remote ref refs/heads/xxx [core] fatal: The remote end hung up unexpectedly](./CONTENTS/6.md)
+- [7、git的跟踪分支和远程跟踪分支学习笔记](./CONTENTS/7.md)
