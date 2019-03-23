@@ -8,3 +8,4 @@ Git-Github-Linux
 - [3、突破github的100M单个大文件上传限制](./CONTENTS/3.md)
 - [4、用于git测试的linux脚本](./CONTENTS/4.md)
 - [5、Fix "the ECDSA host key for 'your server' differs from the key for the IP address 'the ip'"](./CONTENTS/5.md)
+- [6、Fix fatal: Couldn't find remote ref refs/heads/xxx [core] fatal: The remote end hung up unexpectedly](./CONTENTS/6.md)
