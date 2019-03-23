@@ -10,3 +10,4 @@ Git-Github-Linux
 - [5、Fix "the ECDSA host key for 'your server' differs from the key for the IP address 'the ip'"](./CONTENTS/5.md)
 - [6、Fix fatal: Couldn't find remote ref refs/heads/xxx [core] fatal: The remote end hung up unexpectedly](./CONTENTS/6.md)
 - [7、git的跟踪分支和远程跟踪分支学习笔记](./CONTENTS/7.md)
+- [8、解决 npm i 及 yarn install 都无法进行安装的问题和node-sass安装太慢的问题](./CONTENTS/8.md)
