@@ -27,27 +27,27 @@ Web-Blog
 
 - [mobile](./mobile/README.md)
 
-- [mobile -> ionic](./ionic/README.md)
+- [mobile / ionic](./ionic/README.md)
 
-- [mobile -> react native](./Mobile/CONTENTS/mobile/react-native/README.md)
+- [mobile / react native](./mobile/contents/react-native/README.md)
 
-- [mobile -> weex](./mobile/CONTENTS/weex/README.md)
+- [mobile / weex](./mobile/contents/weex/README.md)
 
-- [mobile -> flutter](./mobile/CONTENTS/flutter/README.md)
+- [mobile / flutter](./mobile/contents/flutter/README.md)
 
-- [mobile -> mini program](./mobile/CONTENTS/mini-program/README.md)
+- [mobile / mini program](./mobile/contents/mini-program/README.md)
 
 - [web framework](./web-framework/README.md)
 
-- [web framework -> bootstrap](./web-framework/CONTENTS/bootstrap/README.md)
+- [web framework / bootstrap](./web-framework/contents/bootstrap/README.md)
 
-- [web framework -> angular](./web-framework/CONTENTS/angular/README.md)
+- [web framework / angular](./web-framework/contents/angular/README.md)
 
-- [web framework -> react](./web-framework/CONTENTS/react/README.md)
+- [web framework / react](./web-framework/contents/react/README.md)
 
-- [web framework -> vue](./web-framework/CONTENTS/vue/README.md)
+- [web framework / vue](./web-framework/contents/vue/README.md)
 
-- [web framework -> django](./web-framework/CONTENTS/django/README.md)
+- [web framework / django](./web-framework/contents/django/README.md)
 
 ### License
 
