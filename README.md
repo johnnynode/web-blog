@@ -3,41 +3,41 @@ Web-Blog
 
 ### Classification
 
-- [Html5 CSS3](./Html5-Css3/README.md)
+- [html5 css3](./html5-css3/README.md)
 
-- [Javascript](./Javascript/README.md)
+- [javascript](./javascript/README.md)
 
-- [Typescript](./Typescript/README.md)
+- [typescript](./typescript/README.md)
 
-- [Nodejs](./Nodejs/README.md)
+- [nodejs](./nodejs/README.md)
 
-- [Golang](./Golang/README.md)
+- [golang](./golang/README.md)
 
-- [Python](./Python/README.md)
+- [python](./python/README.md)
 
-- [Java](./Java/README.md)
+- [java](./java/README.md)
 
-- [Data Base](./Data-Base/README.md)
+- [data base](./data-base/README.md)
 
-- [Git Github Linux](./Git-Github-Linux/README.md)
+- [git github linux](./git-github-linux/README.md)
 
-- [Mobile](./Mobile/README.md)
+- [mobile](./mobile/README.md)
 
-- [Mobile Ionic](./Ionic/README.md)
+- [mobile ionic](./ionic/README.md)
 
-- [Mobile React Native](./Mobile/CONTENTS/Mobile/React-Native/README.md)
+- [mobile react native](./Mobile/CONTENTS/mobile/react-native/README.md)
 
-- [Mobile Weex](./Mobile/CONTENTS/Weex/README.md)
+- [mobile weex](./mobile/CONTENTS/weex/README.md)
 
-- [Mobile Flutter](./Mobile/CONTENTS/Flutter/README.md)
+- [mobile flutter](./mobile/CONTENTS/flutter/README.md)
 
-- [Mobile Mini Program](./Mobile/CONTENTS/Mini-Program/README.md)
+- [mobile mini program](./mobile/CONTENTS/mini-program/README.md)
 
-- [Web Framework](./Web-Framework/README.md)
+- [web framework](./web-framework/README.md)
 
-- [Block Chain](./Block-Chain/README.md)
+- [block chain](./block-chain/README.md)
 
-- [Workflow Builder Debugger](./Workflow-Builder-Debugger/README.md)
+- [workflow builder debugger](./workflow-builder-debugger/README.md)
 
 ### License
 
