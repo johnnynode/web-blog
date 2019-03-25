@@ -10,3 +10,4 @@ Nodejs
 - [5、整理nodejs中的exports 和 module.exports的关系](./contents/5.md)
 - [6、nodejs中常用文件操作API及相关API](./contents/6.md)
 - [7、nodejs中文件路径相关API：path](./contents/7.md)
+- [8、基于ES6和原生nodejs实现自定义路由,静态文件服务器和增删查改的MVC架构分享](./contents/8.md)
