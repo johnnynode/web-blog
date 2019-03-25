@@ -9,3 +9,4 @@ Nodejs
 - [4、针对模块化，CommonJS规范，require原理和包查找机制等的整理](./contents/4.md)
 - [5、整理nodejs中的exports 和 module.exports的关系](./contents/5.md)
 - [6、nodejs中常用文件操作API及相关API](./contents/6.md)
+- [7、nodejs中文件路径相关API：path](./contents/7.md)
