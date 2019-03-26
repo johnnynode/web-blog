@@ -17,3 +17,4 @@ Javascript
 - [12、解决 npm i 及 yarn install 都无法进行安装的问题和node-sass安装太慢的问题](./contents/12.md)
 - [13、react中配置webpack，支持@符号导入模块](./contents/13.md)
 - [14、在react项目中修改webpack中本地服务器架设的目录](./contents/14.md)
+- [15、Fix "The code generator has deoptimised the styling of [some file]" as it exceeds the max of "500KB"](./contents/15.md)
