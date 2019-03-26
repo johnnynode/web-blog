@@ -10,3 +10,4 @@ Javascript
 - [5、webpack 部署以及分离第三方库](./contents/5.md)
 - [6、使用gulp相关插件进行api的跨域访问并监控文件的变化的简单处理](./contents/6.md)
 - [7、手写gulp脚本打开本地浏览器支持mac,windows](./contents/7.md)
+- [8、main-bower-files插件在gulp中的应用](./contents/8.md)
