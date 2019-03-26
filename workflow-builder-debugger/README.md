@@ -13,3 +13,4 @@ Javascript
 - [8、main-bower-files插件在gulp中的应用](./contents/8.md)
 - [9、构建工具Grunt的快速使用](./contents/9.md)
 - [10、使用Yeoman快速生成web应用](./contents/10.md)
+- [11、构建工具F.I.S的快速使用](./contents/11.md)
