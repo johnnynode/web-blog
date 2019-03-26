@@ -18,3 +18,4 @@ Javascript
 - [13、react中配置webpack，支持@符号导入模块](./contents/13.md)
 - [14、在react项目中修改webpack中本地服务器架设的目录](./contents/14.md)
 - [15、Fix "The code generator has deoptimised the styling of [some file]" as it exceeds the max of "500KB"](./contents/15.md)
+- [16、Fix ReferenceError: Unknown plugin "transform-remove-strict-mode"](./contents/16.md)
