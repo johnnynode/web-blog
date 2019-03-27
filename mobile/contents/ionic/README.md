@@ -9,3 +9,4 @@ Javascript
 - [4、ionic中一些常用的方法封装](./contents/4.md)
 - [5、ionic中的$ionicPlatform.ready事件中的通用设置](./contents/5.md)
 - [6、ionic中的在线视频播放功能](./contents/6.md)
+- [7、ionic中的在线mp3播放功能](./contents/7.md)
