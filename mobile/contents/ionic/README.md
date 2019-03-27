@@ -7,3 +7,4 @@ Javascript
 - [2、ionic的性能优化和ionic-native-transitions插件的参数调优等](./contents/2.md)
 - [3、ionic第三方QQ，微博，微信的登录,分享功能的实现和注意事项](./contents/3.md)
 - [4、ionic中一些常用的方法封装](./contents/4.md)
+- [5、ionic中的$ionicPlatform.ready事件中的通用设置](./contents/5.md)
