@@ -27,7 +27,7 @@ Web-Blog
 
 - [mobile](./mobile/README.md)
 
-- [mobile / ionic](./ionic/README.md)
+- [mobile / ionic](./mobile/contents/ionic/README.md)
 
 - [mobile / react native](./mobile/contents/react-native/README.md)
 
