@@ -11,4 +11,4 @@ Javascript
 - [6、ionic-1 ionic中的在线视频播放功能](./contents/6.md)
 - [7、ionic-1 ionic中的在线mp3播放功能](./contents/7.md)
 - [8、ionic-1 ionic中第三方网页,pdf等的载入处理和loading动画的实现](./contents/8.md)
-- [9、Fix TypeError: Cannot read property 'emit' of undefined after upgrade to 2.0.0 @ionic/cli-plugin-ion](./contents/9.md)
+- [9、ionic-1 Fix TypeError: Cannot read property 'emit' of undefined after upgrade to 2.0.0 @ionic/cli-plugin-ion](./contents/9.md)
