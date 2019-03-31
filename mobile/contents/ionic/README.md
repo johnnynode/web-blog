@@ -12,3 +12,4 @@ Javascript
 - [7、ionic-1 ionic中的在线mp3播放功能](./contents/7.md)
 - [8、ionic-1 ionic中第三方网页,pdf等的载入处理和loading动画的实现](./contents/8.md)
 - [9、ionic-1 Fix TypeError: Cannot read property 'emit' of undefined after upgrade to 2.0.0 @ionic/cli-plugin-ion](./contents/9.md)
+- [10、ionic-1 ionic配置自定义keystore签名文件并直接安装已签名apk到手机](./contents/10.md)
