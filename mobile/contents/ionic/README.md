@@ -15,3 +15,4 @@ Javascript
 - [10、ionic-1 ionic配置自定义keystore签名文件并直接安装已签名apk到手机](./contents/10.md)
 - [11、ionic-1 快速解决gradle下载慢的问题的小技巧](./contents/11.md)
 - [12、ionic-1 快速解决ionic安卓主题启动时短暂的黑屏或白屏问题](./contents/12.md)
+- [13、ionic-1 ionic后退造成的闪退解决方案](./contents/13.md)
