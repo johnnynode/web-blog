@@ -19,3 +19,4 @@ Javascript
 - [14、ionic-1 ionic热更新的实现以及引导用户下载新版应用功能实现和注意事项](./contents/14.md)
 - [15、ionic-1 ionic中的分类侧边栏ABC字母滑动特效](./contents/15.md)
 - [16、ionic-1 ionic中滑动缩放的焦点图特效实现](./contents/16.md)
+- [17、ionic-1 Fix ionic/android build error in declare-styleable FontFamilyFont](./contents/17.md)
