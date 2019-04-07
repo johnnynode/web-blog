@@ -9,3 +9,4 @@ Angular
 - [4、NG-1 Angular中的内置指令和自定义指令](./contents/4.md)
 - [5、NG-1 Angular中的路由简单使用](./contents/5.md)
 - [6、NG-1 Angular中定义服务的三种方式](./contents/6.md)
+- [7、NG-1 Angular 中一些常用的小方法之详解API](./contents/7.md)
