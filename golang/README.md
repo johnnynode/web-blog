@@ -16,3 +16,4 @@ Golang
 - [11、Go语言学习笔记 --- function](./contents/11.md)
 - [12、Go语言学习笔记 --- defer 、panic 、recover](./contents/12.md)
 - [13、Go语言学习笔记 --- struct](./contents/13.md)
+- [14、Go语言学习笔记 --- method](./contents/14.md)
