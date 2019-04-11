@@ -13,3 +13,4 @@ Golang
 - [8、Go语言学习笔记 --- 数组的使用](./contents/8.md)
 - [9、Go语言学习笔记 --- slice切片](./contents/9.md)
 - [10、Go语言学习笔记 --- map](./contents/10.md)
+- [11、Go语言学习笔记 --- function](./contents/11.md)
