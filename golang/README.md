@@ -21,3 +21,4 @@ Golang
 - [16、Go语言学习笔记 --- reflection](./contents/16.md)
 - [17、Go语言学习笔记 --- concurrency、channel、select](./contents/17.md)
 - [18、Fix cannot find package "golang.org/x/net/context"](./contents/18.md)
+- [19、Fix cannot find package "golang.org/x/text/unicode/norm"](./contents/19.md)
