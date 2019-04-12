@@ -19,3 +19,4 @@ Golang
 - [14、Go语言学习笔记 --- method](./contents/14.md)
 - [15、Go语言学习笔记 --- interface](./contents/15.md)
 - [16、Go语言学习笔记 --- reflection](./contents/16.md)
+- [17、Go语言学习笔记 --- concurrency、channel、select](./contents/17.md)
