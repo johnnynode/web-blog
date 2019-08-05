@@ -37,6 +37,8 @@ Web-Blog
 
 - [mobile / mini program](./mobile/contents/mini-program/README.md)
 
+- [mobile / wechat](./mobile/contents/wechat/README.md)
+
 - [web framework](./web-framework/README.md)
 
 - [web framework / bootstrap](./web-framework/contents/bootstrap/README.md)
