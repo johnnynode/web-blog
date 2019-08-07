@@ -8,3 +8,4 @@ Python
 - [3、Python笔记：Break和Continue](./contents/3.md)
 - [4、Python 中的 Zip](./contents/4.md)
 - [5、Python笔记：列表推导式](./contents/5.md)
+- [6、Python笔记：函数的定义和作用域](./contents/6.md)
