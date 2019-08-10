@@ -13,3 +13,4 @@ Python
 - [8、Python笔记：lambda表达式](./contents/8.md)
 - [9、Python笔记：迭代器和生成器](./contents/9.md)
 - [10、Python笔记：input](./contents/10.md)
+- [11、Python笔记：错误和异常和访问错误消息](./contents/11.md)
