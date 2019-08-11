@@ -15,3 +15,4 @@ Python
 - [10、Python笔记：input](./contents/10.md)
 - [11、Python笔记：错误和异常和访问错误消息](./contents/11.md)
 - [12、Python笔记：For循环](./contents/12.md)
+- [13、Python笔记：复杂的布尔表达式和正反面写法示例](./contents/13.md)
