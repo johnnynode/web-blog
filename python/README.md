@@ -17,3 +17,4 @@ Python
 - [12、Python笔记：For循环](./contents/12.md)
 - [13、Python笔记：复杂的布尔表达式和正反面写法示例](./contents/13.md)
 - [14、Python笔记：条件语句 If、Elif、Else](./contents/14.md)
+- [15、Python笔记：变量和保留字](./contents/15.md)
