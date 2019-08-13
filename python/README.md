@@ -20,3 +20,4 @@ Python
 - [15、Python笔记：变量和保留字](./contents/15.md)
 - [16、Python笔记： 整型和浮点型以及异常和语法错误的区别](./contents/16.md)
 - [17、Python笔记：算术运算符, 赋值运算符, 布尔运算符，比较运算符和逻辑运算符](./contents/17.md)
+- [18、Python笔记：字符串和字符串方法](./contents/18.md)
