@@ -25,3 +25,4 @@ Python
 - [20、Python笔记：列表和成员运算符以及列表相关方法](./contents/20.md)
 - [21、Python笔记：元组的概念和使用](./contents/21.md)
 - [22、Python笔记：集合的概念和使用](./contents/22.md)
+- [23、Python 中的字典与恒等运算符的使用](./contents/23.md)
