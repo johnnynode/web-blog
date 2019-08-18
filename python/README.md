@@ -30,3 +30,4 @@ Python
 - [25、Python笔记：对文件的读写操作](./contents/25.md)
 - [26、Python笔记：import导入本地脚本](./contents/26.md)
 - [27、Python笔记：import 导入模块的技巧](./contents/27.md)
+- [28、NumPy 中的集合运算举例: 查找共同元素，差异元素和共有元素](./contents/28.md)
