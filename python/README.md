@@ -31,3 +31,4 @@ Python
 - [26、Python笔记：import导入本地脚本](./contents/26.md)
 - [27、Python笔记：import 导入模块的技巧](./contents/27.md)
 - [28、NumPy 中的集合运算举例: 查找共同元素，差异元素和共有元素](./contents/28.md)
+- [29、在NumPy中，对秩为 1 和 2 的 ndarray 进行排序](./contents/29.md)
