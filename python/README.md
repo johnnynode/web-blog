@@ -33,3 +33,4 @@ Python
 - [28、NumPy 中的集合运算举例: 查找共同元素，差异元素和共有元素](./contents/28.md)
 - [29、在NumPy中，对秩为 1 和 2 的 ndarray 进行排序](./contents/29.md)
 - [30、在NumPy中，对ndarray进行算数运算和广播](./contents/30.md)
+- [31、Python中的Pandas工具简介](./contents/31.md)
