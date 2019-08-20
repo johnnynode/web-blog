@@ -34,3 +34,4 @@ Python
 - [29、在NumPy中，对秩为 1 和 2 的 ndarray 进行排序](./contents/29.md)
 - [30、在NumPy中，对ndarray进行算数运算和广播](./contents/30.md)
 - [31、Python中的Pandas工具简介](./contents/31.md)
+- [32、访问或修改 Pandas Series 中的元素以及相关运算](./contents/32.md)
