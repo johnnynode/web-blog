@@ -53,6 +53,10 @@ Web-Blog
 
 - [mac skills](./mac-skills/README.md)
 
+- [management](./management/README.md)
+
+- [business](./business/README.md)
+
 ### License
 
 MIT
