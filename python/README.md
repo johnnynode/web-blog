@@ -35,4 +35,4 @@ Python
 - [30、在NumPy中，对ndarray进行算数运算和广播](./contents/30.md)
 - [31、Python中的Pandas工具简介](./contents/31.md)
 - [32、访问或修改 Pandas Series 中的元素以及相关运算](./contents/32.md)
-- [33、访问或修改 Pandas Series 中的元素以及相关运算](./contents/33.md)
+- [33、Pandas DataFrames 的使用](./contents/33.md)
