@@ -38,3 +38,4 @@ Python
 - [33、Python笔记：Pandas DataFrames 的使用](./contents/33.md)
 - [34、Python笔记：访问 Pandas DataFrame 中的元素](./contents/34.md)
 - [35、Python笔记：在Pandas中处理NaN值](./contents/35.md)
+- [36、Python笔记：Pandas DataFrame 加载数据的方式](./contents/36.md)
