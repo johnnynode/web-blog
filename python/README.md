@@ -40,3 +40,4 @@ Python
 - [35、Python笔记：在Pandas中处理NaN值](./contents/35.md)
 - [36、Python笔记：Pandas DataFrame 加载数据的方式](./contents/36.md)
 - [37、Python笔记：初识Matplotlib和Seaborn](./contents/37.md)
+- [38、Python笔记：纯python处理矩阵：对每个元素进行特定位数的四舍五入处理](./contents/38.md)
