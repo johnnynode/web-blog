@@ -44,3 +44,4 @@ Python
 - [39、Python笔记：纯python处理矩阵：对矩阵进行转置](./contents/39.md)
 - [40、Python笔记：纯python操作矩阵：进行矩阵的相乘运算](./contents/40.md)
 - [41、Python笔记：argparse 命令行模块的使用](./contents/41.md)
+- [42、Python笔记：Fix pymysql.err.OperationalError 2003 on Mac](./contents/42.md)
