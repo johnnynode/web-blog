@@ -11,6 +11,8 @@ Web-Blog
 
 - [nodejs](./nodejs/README.md)
 
+- [c-c++](./c-c++/README.md)
+
 - [golang](./golang/README.md)
 
 - [python](./python/README.md)
