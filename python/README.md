@@ -52,4 +52,4 @@ Python
 - [47、Python笔记：Python中的正则表达式常用使用案例](./contents/47.md)
 - [48、Python笔记：网络爬虫概述与工作原理](./contents/48.md)
 - [49、Python笔记：NumPy 中的集合运算举例: 查找共同元素，差异元素和共有元素](./contents/49.md)
-- [50、Python笔记：网络爬虫的应用与错误处理](./contents/50.md)
+- [50、Python笔记：网络爬虫的基础应用与异常处理](./contents/50.md)
