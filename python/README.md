@@ -56,3 +56,4 @@ Python
 - [51、Python笔记：网络爬虫中常用库的对比使用](./contents/51.md)
 - [52、Python笔记：网络爬虫之模拟人人网登录及获取数据的过程详解](./contents/52.md)
 - [53、Python笔记：网络爬虫之XPath、Beautiful Soup、PyQuery的使用](./contents/53.md)
+- [54、Python笔记：网络爬虫实战之豆瓣网](./contents/54.md)
