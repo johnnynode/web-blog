@@ -59,3 +59,4 @@ Python
 - [54、Python笔记：网络爬虫实战之豆瓣网](./contents/54.md)
 - [55、Python笔记：京东分类图片信息爬取之urlretrieve直接存储图片](./contents/55.md)
 - [56、Python笔记：网站反爬虫与反反爬策略和Ajax信息的爬取实践](./contents/56.md)
+- [57、Python笔记：网站验证码的图像识别技术实战](./contents/57.md)
