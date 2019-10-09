@@ -61,3 +61,4 @@ Python
 - [56、Python笔记：网站反爬虫与反反爬策略和Ajax信息的爬取实践](./contents/56.md)
 - [57、Python笔记：网站验证码的图像识别技术实战](./contents/57.md)
 - [58、Python笔记：爬取头条Ajax搜索结果综合列表图片数据实践](./contents/58.md)
+- [59、Python笔记：爬虫框架之Scrapy架构图及原理](./contents/59.md)
