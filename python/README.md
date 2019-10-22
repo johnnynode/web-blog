@@ -64,3 +64,5 @@ Python
 - [59、Python笔记：爬虫框架之Scrapy架构图及原理](./contents/59.md)
 - [60、Python笔记：爬虫框架Scrapy之应用实践](./contents/60.md)
 - [61、Python笔记：爬虫框架Scrapy之Selector选择器数据解析详解](./contents/61.md)
+- [62、Python笔记：爬虫框架Scrapy之Spider的原理](./contents/62.md)
+- [63、Python笔记：爬虫框架Scrapy之Downloader Middleware的使用](./contents/63.md)
