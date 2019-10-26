@@ -68,3 +68,4 @@ Python
 - [63、Python笔记：爬虫框架Scrapy之Downloader Middleware的使用](./contents/63.md)
 - [64、Python笔记：爬虫框架Scrapy之Spider Middleware的使用](./contents/64.md)
 - [65、Python笔记：爬虫框架Scrapy之Settings配置说明](./contents/65.md)
+- [66、Python笔记：爬虫框架Scrapy之ItemPipeline的使用](./contents/66.md)
