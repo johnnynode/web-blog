@@ -71,5 +71,5 @@ Python
 - [66、Python笔记：爬虫框架Scrapy之ItemPipeline的使用](./contents/66.md)
 - [67、Python笔记：爬虫框架Scrapy抓取数据入库及图片下载流程处理](./contents/67.md)
 - [68、Python笔记：爬虫框架Scrapy抓取数据案例实战解析包含项目代码](./contents/68.md)
-- [69、Python笔记：爬虫Selenium库的使用以及结合Scrapy框架的操作案例](./contents/69.md)
-- [70、Python笔记：Selenium库的使用以及结合Scrapy框架的操作案例](./contents/70.md)
+- [69、Python笔记：Selenium库的使用以及结合Scrapy框架的操作案例](./contents/69.md)
+- [70、Python笔记：MongoDB与Redis的使用](./contents/70.md)
