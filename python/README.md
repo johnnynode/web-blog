@@ -74,3 +74,4 @@ Python
 - [69、Python笔记：Selenium库的使用以及结合Scrapy框架的操作案例](./contents/69.md)
 - [70、Python笔记：MongoDB与Redis的使用](./contents/70.md)
 - [71、Python笔记：第三方IP代理服务与爬虫IP代理](./contents/71.md)
+- [72、Python笔记：分布式爬虫原理与Scrapy分布式应用](./contents/72.md)
