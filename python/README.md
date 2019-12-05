@@ -75,4 +75,4 @@ Python
 - [70、Python笔记：MongoDB与Redis的使用](./contents/70.md)
 - [71、Python笔记：第三方IP代理服务与爬虫IP代理](./contents/71.md)
 - [72、Python笔记：分布式爬虫原理与Scrapy分布式应用](./contents/72.md)
-- [73、Python笔记：使用爬虫抓取App的数据](./contents/73.md)
+- [73、Python笔记：使用代理方式抓取App的数据操作案例](./contents/73.md)
