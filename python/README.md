@@ -78,3 +78,4 @@ Python
 - [73、Python笔记：使用代理方式抓取App的数据操作案例](./contents/73.md)
 - [74、Python笔记：API服务的数据采集案例](./contents/74.md)
 - [75、Python笔记：滑动验证码的识别算法实战](./contents/75.md)
+- [76、Python笔记：基于Scrapy-Redis的分布式爬取豆瓣读书项目](./contents/76.md)
