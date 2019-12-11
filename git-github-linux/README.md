@@ -11,3 +11,4 @@ Git-Github-Linux
 - [6、Fix fatal: Couldn't find remote ref refs/heads/xxx [core] fatal: The remote end hung up unexpectedly](./contents/6.md)
 - [7、git的跟踪分支和远程跟踪分支学习笔记](./contents/7.md)
 - [8、解决 npm i 及 yarn install 都无法进行安装的问题和node-sass安装太慢的问题](./contents/8.md)
+- [9、Linux笔记：关于Linux操作系统的特性、界面、购买、安装、接入操作等](./contents/9.md)
