@@ -14,3 +14,4 @@ Git-Github-Linux
 - [9、Linux笔记：关于Linux操作系统的特性、界面、购买、安装、接入操作等](./contents/9.md)
 - [10、Linux笔记：目录与文件操作命令](./contents/10.md)
 - [11、Linux笔记：文件打包与解压](./contents/11.md)
+- [12、Linux笔记：文本编辑器vi/vim的使用](./contents/12.md)
