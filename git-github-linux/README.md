@@ -15,3 +15,4 @@ Git-Github-Linux
 - [10、Linux笔记：目录与文件操作命令](./contents/10.md)
 - [11、Linux笔记：文件打包与解压](./contents/11.md)
 - [12、Linux笔记：文本编辑器vi/vim的使用](./contents/12.md)
+- [13、Linux笔记：权限管理、用户和用户组](./contents/13.md)
