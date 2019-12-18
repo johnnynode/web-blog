@@ -19,3 +19,4 @@ Git-Github-Linux
 - [14、Linux笔记：进程管理、系统状态](./contents/14.md)
 - [15、Linux笔记：软件发布方式以及安装管理](./contents/15.md)
 - [16、Linux笔记：安装mysql以及使用命令行对mysql进行管理和维护](./contents/16.md)
+- [17、Linux笔记：使用uWSGI将python项目发布到linux服务器上](./contents/17.md)
