@@ -18,3 +18,4 @@ Git-Github-Linux
 - [13、Linux笔记：权限管理、用户和用户组](./contents/13.md)
 - [14、Linux笔记：进程管理、系统状态](./contents/14.md)
 - [15、Linux笔记：软件发布方式以及安装管理](./contents/15.md)
+- [16、Linux笔记：安装mysql以及使用命令行对mysql进行管理和维护](./contents/16.md)
