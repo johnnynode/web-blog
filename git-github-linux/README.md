@@ -21,3 +21,4 @@ Git-Github-Linux
 - [16、Linux笔记：安装mysql以及使用命令行对mysql进行管理和维护](./contents/16.md)
 - [17、Linux笔记：使用uWSGI将python项目发布到linux服务器上](./contents/17.md)
 - [18、Linux笔记：关于性能测试(压力测试)](./contents/18.md)
+- [19、Linux笔记：高并发下的Web架构之高可用、高并发和经典系统架构](./contents/19.md)
