@@ -22,4 +22,4 @@ Git-Github-Linux
 - [17、Linux笔记：使用uWSGI将python项目发布到linux服务器上](./contents/17.md)
 - [18、Linux笔记：关于性能测试(压力测试)](./contents/18.md)
 - [19、Linux笔记：高并发下的Web架构之高可用、高并发和经典系统架构](./contents/19.md)
-- [20、Linux笔记：高并发下的Web架构之反向代理与负载均衡](./contents/20.md)
+- [20、Linux笔记：高并发下的Web架构之代理与负载均衡与Nginx配置](./contents/20.md)
