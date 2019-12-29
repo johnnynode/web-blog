@@ -25,3 +25,4 @@ Git-Github-Linux
 - [20、Linux笔记：高并发下的Web架构之代理与负载均衡与Nginx配置](./contents/20.md)
 - [21、Linux笔记：高并发下的Web架构之Nginx反向代理配置](./contents/21.md)
 - [22、Linux笔记：高并发下的Web架构之Memcached缓存技术](./contents/22.md)
+- [23、Linux笔记：高并发下的Web架构之RabbitMQ消息队列](./contents/23.md)
