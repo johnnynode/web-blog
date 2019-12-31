@@ -27,4 +27,4 @@ Git-Github-Linux
 - [22、Linux笔记：高并发下的Web架构之Memcached缓存技术](./contents/22.md)
 - [23、Linux笔记：高并发下的Web架构之RabbitMQ消息队列](./contents/23.md)
 - [24、Linux笔记：自动化运维之常用模块psutil、IPy、dnspython](./contents/24.md)
-- [25、Linux笔记：自动化运维之自动化监控与报警](./contents/25.md)
+- [25、Linux笔记：自动化运维之自动化监控与报警:监控硬件使用率和自动发送邮件微信通知报警](./contents/25.md)
