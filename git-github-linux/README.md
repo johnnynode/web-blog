@@ -29,3 +29,4 @@ Git-Github-Linux
 - [24、Linux笔记：自动化运维之常用模块psutil、IPy、dnspython](./contents/24.md)
 - [25、Linux笔记：自动化运维之自动化监控与报警:监控硬件使用率和自动发送邮件微信通知报警](./contents/25.md)
 - [26、Linux笔记：自动化运维之服务器软件的自动化安装与配置](./contents/26.md)
+- [27、Linux笔记：自动化运维之部署管理:Fabric、SSH免密码登录、Ansible、Paramiko的应用](./contents/27.md)
