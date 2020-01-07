@@ -32,3 +32,4 @@ Git-Github-Linux
 - [27、Linux笔记：自动化运维之部署管理:Fabric、SSH免密码登录、Ansible、Paramiko的应用](./contents/27.md)
 - [28、Docker笔记：基本概念、镜像、容器、仓库以及数据卷的使用](./contents/28.md)
 - [29、Docker笔记：运行web服务和构建自己的镜像文件](./contents/29.md)
+- [30、Docker笔记：多容器的应用:基于python框架Flask的web应用与redis容器进行通信](./contents/30.md)
