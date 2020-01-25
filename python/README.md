@@ -82,3 +82,4 @@ Python
 - [77、Python笔记：Django框架的应用的管理、项目的模型、网站Admin管理](./contents/77.md)
 - [78、Python笔记：Django框架的URL的路由配置及原理](./contents/78.md)
 - [79、Python笔记：Django框架的模型层详解](./contents/79.md)
+- [80、Python笔记：Django框架的视图层详解](./contents/80.md)
