@@ -84,3 +84,4 @@ Python
 - [79、Python笔记：Django框架的模型层详解](./contents/79.md)
 - [80、Python笔记：Django框架的视图层详解](./contents/80.md)
 - [81、Python笔记：Django框架的模板层详解](./contents/81.md)
+- [82、Python笔记：Django框架中上传文件、数据分页、部署(Apache)](./contents/82.md)
