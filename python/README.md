@@ -85,3 +85,4 @@ Python
 - [80、Python笔记：Django框架的视图层详解](./contents/80.md)
 - [81、Python笔记：Django框架的模板层详解](./contents/81.md)
 - [82、Python笔记：Django框架中上传文件、数据分页、部署(Apache)](./contents/82.md)
+- [83、Python笔记：Django框架的静态文件访问、CSRF、状态保持、中间件、密码管理](./contents/83.md)
