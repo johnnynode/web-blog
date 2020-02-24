@@ -87,3 +87,4 @@ Python
 - [82、Python笔记：Django框架中上传文件、数据分页、部署(Apache)](./contents/82.md)
 - [83、Python笔记：Django框架的静态文件访问、CSRF、状态保持、中间件、密码管理](./contents/83.md)
 - [84、Python笔记：基于Django框架的数据库设计](./contents/84.md)
+- [85、Python笔记：基于Django框架的项目架构程序设计](./contents/85.md)
