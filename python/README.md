@@ -88,3 +88,4 @@ Python
 - [83、Python笔记：Django框架的静态文件访问、CSRF、状态保持、中间件、密码管理](./contents/83.md)
 - [84、Python笔记：基于Django框架的数据库设计](./contents/84.md)
 - [85、Python笔记：基于Django框架的项目架构程序设计](./contents/85.md)
+- [86、Python笔记：Jupyter注意事项，常用快捷键，常用魔法命令](./contents/86.md)
