@@ -9,3 +9,4 @@
 - [4、市场经济与价格机制](./contents/4.md)
 - [5、需求与供给](./contents/5.md)
 - [6、成本的逻辑](./contents/6.md)
+- [7、定价的逻辑](./contents/7.md)
