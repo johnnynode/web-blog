@@ -8,3 +8,4 @@
 - [3、经济学思维方式](./contents/3.md)
 - [4、市场经济与价格机制](./contents/4.md)
 - [5、需求与供给](./contents/5.md)
+- [6、成本的逻辑](./contents/6.md)
