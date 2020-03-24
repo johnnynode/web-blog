@@ -10,3 +10,4 @@
 - [5、需求与供给](./contents/5.md)
 - [6、成本的逻辑](./contents/6.md)
 - [7、定价的逻辑](./contents/7.md)
+- [8、市场力量的逻辑](./contents/8.md)
