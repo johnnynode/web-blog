@@ -57,8 +57,6 @@ Web-Blog
 
 - [management](./management/README.md)
 
-- [business](./business/README.md)
-
 ### License
 
 MIT
