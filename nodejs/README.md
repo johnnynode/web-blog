@@ -15,6 +15,7 @@ Nodejs
 - [10、Socket.io教程: Express结合Socket.io实现通信: 聊天室及智能客服的简单演示](./contents/10.md)
 - [11、Socket.io教程: 基于Express和Mongodb的智能客服的简单设计与实现](./contents/11.md)
 - [12、Socket.io教程: 基于Express的多人聊天室的简单设计与实现](./contents/12.md)
+- [13、Socket.io教程: 基于Express的多聊天室(分组)的简单设计与实现](./contents/13.md)
 
 ### 框架扩展
 
