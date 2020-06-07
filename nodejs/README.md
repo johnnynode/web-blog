@@ -13,6 +13,7 @@ Nodejs
 - [8、原生nodejs: 基于ES6和原生nodejs实现自定义路由,静态文件服务器和增删查改的MVC架构分享](./contents/8.md)
 - [9、Socket.io教程: 原生nodejs结合Socket.io实现服务器和客户端的相互通信](./contents/9.md)
 - [10、Socket.io教程: Express结合Socket.io实现通信: 聊天室及智能客服的简单演示](./contents/10.md)
+- [10、Socket.io教程: 基于Express和mongodb的智能客服设计与实现](./contents/11.md)
 
 ### 框架扩展
 
