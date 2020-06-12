@@ -53,6 +53,8 @@ Web-Blog
 
 - [web framework / django](./web-framework/contents/django/README.md)
 
+- [software engineering](./software-engineering/README.md)
+
 - [mac skills](./mac-skills/README.md)
 
 - [management](./management/README.md)
