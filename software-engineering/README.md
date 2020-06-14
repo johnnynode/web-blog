@@ -11,3 +11,4 @@ Software Engineering
 - [6、软件工程笔记：方法论来源于恐惧](./contents/6.md)
 - [7、软件工程笔记：敏捷是什么](./contents/7.md)
 - [8、软件工程笔记：典型的敏捷开发方法:SCRUM和XP](./contents/8.md)
+- [9、软件工程笔记：敏捷不是万能药](./contents/9.md)
