@@ -12,3 +12,4 @@ Software Engineering
 - [7、软件工程笔记：敏捷是什么](./contents/7.md)
 - [8、软件工程笔记：典型的敏捷开发方法:SCRUM和XP](./contents/8.md)
 - [9、软件工程笔记：敏捷不是万能药](./contents/9.md)
+- [10、软件工程笔记：面向对象核心概念和基本特性](./contents/10.md)
