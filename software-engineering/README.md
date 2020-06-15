@@ -14,3 +14,4 @@ Software Engineering
 - [9、软件工程笔记：敏捷不是万能药](./contents/9.md)
 - [10、软件工程笔记：面向对象核心概念和基本特性](./contents/10.md)
 - [11、软件工程笔记：面向对象设计基本原则](./contents/11.md)
+- [12、软件工程笔记：通用职责分配模式(grasp)](./contents/12.md)
