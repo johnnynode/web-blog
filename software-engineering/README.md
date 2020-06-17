@@ -20,3 +20,5 @@ Software Engineering
 - [15、软件工程笔记：主要UML模型图绘制技巧](./contents/15.md)
 - [16、软件工程笔记：Pos系统的分析与设计案例](./contents/16.md)
 - [17、软件工程笔记：软件自动化概述](./contents/17.md)
+- [18、软件工程笔记：典型自动化方法和工具](./contents/18.md)
+- [19、软件工程笔记：文档自动化](./contents/19.md)
