@@ -24,3 +24,4 @@ Software Engineering
 - [19、软件工程笔记：文档自动化](./contents/19.md)
 - [20、软件工程笔记：测试自动化](./contents/20.md)
 - [21、软件工程笔记：持续集成](./contents/21.md)
+- [22、软件工程笔记：持续交付和部署](./contents/22.md)
