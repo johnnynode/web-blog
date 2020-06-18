@@ -23,3 +23,4 @@ Software Engineering
 - [18、软件工程笔记：典型自动化方法和工具](./contents/18.md)
 - [19、软件工程笔记：文档自动化](./contents/19.md)
 - [20、软件工程笔记：测试自动化](./contents/20.md)
+- [21、软件工程笔记：持续集成](./contents/21.md)
