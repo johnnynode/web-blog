@@ -27,3 +27,4 @@ Software Engineering
 - [22、软件工程笔记：持续交付和部署](./contents/22.md)
 - [23、软件工程笔记：DevOps](./contents/23.md)
 - [24、软件工程笔记：质量与质量保证](./contents/24.md)
+- [25、软件工程笔记：软件质量模型](./contents/25.md)
