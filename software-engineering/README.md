@@ -28,3 +28,4 @@ Software Engineering
 - [23、软件工程笔记：DevOps](./contents/23.md)
 - [24、软件工程笔记：质量与质量保证](./contents/24.md)
 - [25、软件工程笔记：软件质量模型](./contents/25.md)
+- [26、软件工程笔记：SQA组织与职责](./contents/26.md)
