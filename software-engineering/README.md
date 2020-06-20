@@ -31,3 +31,4 @@ Software Engineering
 - [26、软件工程笔记：SQA组织与职责](./contents/26.md)
 - [27、软件工程笔记：全面软件质量管理](./contents/27.md)
 - [28、软件工程笔记：软件过程综述](./contents/28.md)
+- [29、软件工程笔记：软件过程改进](./contents/29.md)
