@@ -35,3 +35,4 @@ Software Engineering
 - [30、软件工程笔记：能力成熟度模型](./contents/30.md)
 - [31、软件工程笔记：过程改进标准框架](./contents/31.md)
 - [32、软件工程笔记：软件复用综述](./contents/32.md)
+- [33、软件工程笔记：软件构件技术](./contents/33.md)
