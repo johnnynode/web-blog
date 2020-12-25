@@ -21,4 +21,5 @@ Nodejs
 ### 框架扩展
 
 - [1、Nodejs部署教程](//github.com/johnnynode/node-deploy)
-- [2、Eggjs: Eggjs所有笔记](//github.com/johnnynode/eggjs-material)
+- [2、Nodejs微服务](//github.com/johnnynode/node-micro-services)
+- [3、Eggjs: Eggjs所有笔记](//github.com/johnnynode/eggjs-material)
