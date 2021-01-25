@@ -8,3 +8,4 @@ HTTP
 - [3、HTTP的三次握手,URI,URL,URN,HTTP报文,方法和状态码](./contents/3.md)
 - [4、HTTP客户端和基本的跨域问题](./contents/4.md)
 - [5、关于HTTP跨域请求的预请求和更多配置](./contents/5.md)
+- [6、关于HTTP缓存Cache-Control](./contents/6.md)
