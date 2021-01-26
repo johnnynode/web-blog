@@ -11,3 +11,4 @@ HTTP
 - [6、关于HTTP缓存Cache-Control](./contents/6.md)
 - [7、关于HTTP缓存验证Last-Modified和Etag的使用](./contents/7.md)
 - [8、关于HTTP中的Cookie和Session的使用](./contents/8.md)
+- [9、关于HTTP中的Connection长连接](./contents/9.md)
