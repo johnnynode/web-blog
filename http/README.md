@@ -13,3 +13,4 @@ HTTP
 - [8、关于HTTP中的Cookie和Session的使用](./contents/8.md)
 - [9、关于HTTP中的Connection长连接](./contents/9.md)
 - [10、关于HTTP中的数据协商](./contents/10.md)
+- [11、关于HTTP中的Redirect重定向](./contents/11.md)
