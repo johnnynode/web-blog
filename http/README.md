@@ -15,3 +15,4 @@ HTTP
 - [10、关于HTTP中的数据协商](./contents/10.md)
 - [11、关于HTTP中的Redirect重定向](./contents/11.md)
 - [12、关于HTTP中的CSP(Content-Security-Policy)内容安全策略](./contents/12.md)
+- [13、基于HTTP的Nginx安装和基础配置](./contents/13.md)
