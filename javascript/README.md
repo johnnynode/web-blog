@@ -88,3 +88,4 @@ Javascript
 - [83、javascript设计模式之建造者模式](./contents/83.md)
 - [84、javascript设计模式之工厂模式](./contents/84.md)
 - [85、javascript设计模式之外观模式](./contents/85.md)
+- [86、javascript设计模式之代理模式](./contents/86.md)
