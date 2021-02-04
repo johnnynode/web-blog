@@ -90,4 +90,5 @@ Javascript
 - [85、javascript设计模式之外观模式](./contents/85.md)
 - [86、javascript设计模式之代理模式](./contents/86.md)
 - [87、javascript设计模式之策略模式](./contents/87.md)
+- [88、javascript设计模式之命令模式](./contents/88.md)
 - [XX、javascript设计模式之观察者模式](./contents/xx.md)
