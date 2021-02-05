@@ -92,4 +92,5 @@ Javascript
 - [87、javascript设计模式之策略模式](./contents/87.md)
 - [88、javascript设计模式之命令模式](./contents/88.md)
 - [89、javascript设计模式之原型模式](./contents/89.md)
+- [90、javascript设计模式之迭代器模式](./contents/90.md)
 - [XX、javascript设计模式之观察者模式](./contents/xx.md)
