@@ -96,4 +96,4 @@ Javascript
 - [91、javascript设计模式之适配器模式](./contents/91.md)
 - [92、javascript设计模式之职责链模式](./contents/92.md)
 - [93、javascript设计模式之模板方法模式](./contents/93.md)
-- [XX、javascript设计模式之观察者模式](./contents/xx.md)
+- [94、javascript设计模式之观察者模式](./contents/94.md)
