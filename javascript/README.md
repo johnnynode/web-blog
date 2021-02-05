@@ -97,3 +97,4 @@ Javascript
 - [92、javascript设计模式之职责链模式](./contents/92.md)
 - [93、javascript设计模式之模板方法模式](./contents/93.md)
 - [94、javascript设计模式之观察者模式](./contents/94.md)
+- [95、javascript设计模式之发布订阅模式](./contents/95.md)
