@@ -81,3 +81,5 @@ Data Structures and Algorithms (DSA)
 - [76、数据结构与算法之字符串: Leetcode 696. 计数二进制子串 (Typescript版)](./contents/76.md)
 - [77、数据结构与算法之字符串: Leetcode 20. 有效的括号 (Typescript版)](./contents/77.md)
 - [78、数据结构与算法之数组: Leetcode 17. 电话号码的字母组合 (Typescript版)](./contents/78.md)
+- [79、数据结构与算法之数组: Leetcode 914. 卡牌分组 (Typescript版)](./contents/79.md)
+
