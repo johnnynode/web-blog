@@ -100,7 +100,7 @@ Data Structures and Algorithms (DSA)
 - [95、数据结构与算法之动态规划: Leetcode 787. K 站中转内最便宜的航班 (Typescript版)](./contents/95.md)
 - [96、数据结构与算法之栈: Leetcode 682. 棒球比赛 (Typescript版)](./contents/96.md)
 - [97、数据结构与算法之二叉树: Leetcode 144. 二叉树的前序遍历 (Typescript版)](./contents/97.md)
-- [98、](./contents/98.md)
+- [98、数据结构与算法之二叉树: Leetcode 94. 二叉树的中序遍历 (Typescript版)](./contents/98.md)
 - [99、](./contents/99.md)
 - [100、](./contents/100.md)
 
